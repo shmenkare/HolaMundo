@@ -1,8 +1,10 @@
-Hola mundo.csproj
-Hola mundo.sln
+HolaMundo.csproj
+HolaMundo.sln
 Hola mundo.suo
 Properties/
 bin/
 obj/
+App.config
+.vs/
 
 
